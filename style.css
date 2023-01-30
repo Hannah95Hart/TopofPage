@@ -1,0 +1,29 @@
+.navbar{
+    background-color: lightgray;
+    padding:10px;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.align{
+    position: relative;
+    left: 50px;
+}
+
+.logo{
+    font-family: Arial;
+    font-size: larger;
+    font-weight:bolder;
+    color: black;
+}
+
+.header{
+    background-image: url(/images/IMG_4840.JPG);
+    height: 400px;
+    width: 600px;
+    text-align: center;
+
+}
